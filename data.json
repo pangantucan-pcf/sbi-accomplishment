@@ -1,8 +1,8 @@
 {
  "first_date": "October 12, 2026",
- "started": false,
- "generated": "October 11, 2026 11:58 PM",
- "today": "2026-10-11",
+ "started": true,
+ "generated": "October 12, 2026 12:28 AM",
+ "today": "2026-10-12",
  "kpi": {
   "mr_pct": 0.0,
   "td_pct": 0.0,
@@ -17,8 +17,8 @@
   "vaxed_pct": 0.0,
   "schools": 36,
   "done": 0,
-  "ongoing": 0,
-  "upcoming": 36,
+  "ongoing": 7,
+  "upcoming": 29,
   "mopup": 0
  },
  "schools": [
@@ -267,12 +267,12 @@
    "no": 9,
    "name": "Lantay ES",
    "barangay": "Lantay",
-   "status": "upcoming",
+   "status": "ongoing",
    "dates": [
     "2026-10-12"
    ],
    "schedule": "October 12, 2026",
-   "today": false,
+   "today": true,
    "next_date": "2026-10-12",
    "elig_g1": 53,
    "elig_g7": 0,
@@ -297,12 +297,12 @@
    "no": 10,
    "name": "Mendiz ES",
    "barangay": "Mendis",
-   "status": "upcoming",
+   "status": "ongoing",
    "dates": [
     "2026-10-12"
    ],
    "schedule": "October 12, 2026",
-   "today": false,
+   "today": true,
    "next_date": "2026-10-12",
    "elig_g1": 42,
    "elig_g7": 30,
@@ -327,12 +327,12 @@
    "no": 11,
    "name": "New Eden ES",
    "barangay": "New Eden",
-   "status": "upcoming",
+   "status": "ongoing",
    "dates": [
     "2026-10-12"
    ],
    "schedule": "October 12, 2026",
-   "today": false,
+   "today": true,
    "next_date": "2026-10-12",
    "elig_g1": 22,
    "elig_g7": 16,
@@ -424,12 +424,12 @@
    "no": 14,
    "name": "Portulin ES",
    "barangay": "Portulin",
-   "status": "upcoming",
+   "status": "ongoing",
    "dates": [
     "2026-10-12"
    ],
    "schedule": "October 12, 2026",
-   "today": false,
+   "today": true,
    "next_date": "2026-10-12",
    "elig_g1": 21,
    "elig_g7": 0,
@@ -454,12 +454,12 @@
    "no": 15,
    "name": "Sinasaan ES",
    "barangay": "Portulin",
-   "status": "upcoming",
+   "status": "ongoing",
    "dates": [
     "2026-10-12"
    ],
    "schedule": "October 12, 2026",
-   "today": false,
+   "today": true,
    "next_date": "2026-10-12",
    "elig_g1": 15,
    "elig_g7": 0,
@@ -668,12 +668,12 @@
    "no": 22,
    "name": "Kimanait NHS",
    "barangay": "Kimanait",
-   "status": "upcoming",
+   "status": "ongoing",
    "dates": [
     "2026-10-12"
    ],
    "schedule": "October 12, 2026",
-   "today": false,
+   "today": true,
    "next_date": "2026-10-12",
    "elig_g1": 0,
    "elig_g7": 86,
@@ -848,12 +848,12 @@
    "no": 28,
    "name": "Bacusanon CES",
    "barangay": "Bacusanon",
-   "status": "upcoming",
+   "status": "ongoing",
    "dates": [
     "2026-10-12"
    ],
    "schedule": "October 12, 2026",
-   "today": false,
+   "today": true,
    "next_date": "2026-10-12",
    "elig_g1": 97,
    "elig_g7": 0,
