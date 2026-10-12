@@ -1,7 +1,7 @@
 {
  "first_date": "October 12, 2026",
  "started": true,
- "generated": "October 12, 2026 4:58 PM",
+ "generated": "October 12, 2026 5:01 PM",
  "today": "2026-10-12",
  "kpi": {
   "mr_pct": 5.0,
@@ -16,10 +16,10 @@
   "elig_total": 3566,
   "vaxed_pct": 4.0,
   "schools": 36,
-  "done": 0,
-  "ongoing": 7,
+  "done": 6,
+  "ongoing": 1,
   "upcoming": 29,
-  "mopup": 0
+  "mopup": 6
  },
  "schools": [
   {
@@ -267,7 +267,7 @@
    "no": 9,
    "name": "Lantay ES",
    "barangay": "Lantay",
-   "status": "ongoing",
+   "status": "done",
    "dates": [
     "2026-10-12"
    ],
@@ -288,7 +288,7 @@
    "mr_pct": 47.2,
    "td_pct": 47.2,
    "hpv_pct": 6.5,
-   "needs_mopup": false,
+   "needs_mopup": true,
    "lat": 7.826551,
    "lon": 124.803688
   },
@@ -327,7 +327,7 @@
    "no": 11,
    "name": "New Eden ES",
    "barangay": "New Eden",
-   "status": "ongoing",
+   "status": "done",
    "dates": [
     "2026-10-12"
    ],
@@ -348,7 +348,7 @@
    "mr_pct": 13.2,
    "td_pct": 13.2,
    "hpv_pct": 26.1,
-   "needs_mopup": false,
+   "needs_mopup": true,
    "lat": 7.879573,
    "lon": 124.837303
   },
@@ -424,7 +424,7 @@
    "no": 14,
    "name": "Portulin ES",
    "barangay": "Portulin",
-   "status": "ongoing",
+   "status": "done",
    "dates": [
     "2026-10-12"
    ],
@@ -445,7 +445,7 @@
    "mr_pct": 47.6,
    "td_pct": 47.6,
    "hpv_pct": 22.2,
-   "needs_mopup": false,
+   "needs_mopup": true,
    "lat": 7.903146,
    "lon": 124.865492
   },
@@ -454,7 +454,7 @@
    "no": 15,
    "name": "Sinasaan ES",
    "barangay": "Portulin",
-   "status": "ongoing",
+   "status": "done",
    "dates": [
     "2026-10-12"
    ],
@@ -475,7 +475,7 @@
    "mr_pct": 46.7,
    "td_pct": 46.7,
    "hpv_pct": 33.3,
-   "needs_mopup": false,
+   "needs_mopup": true,
    "lat": 7.863772,
    "lon": 124.866471
   },
@@ -668,7 +668,7 @@
    "no": 22,
    "name": "Kimanait NHS",
    "barangay": "Kimanait",
-   "status": "ongoing",
+   "status": "done",
    "dates": [
     "2026-10-12"
    ],
@@ -689,7 +689,7 @@
    "mr_pct": 57.0,
    "td_pct": 57.0,
    "hpv_pct": 0.0,
-   "needs_mopup": false,
+   "needs_mopup": true,
    "lat": 7.573731,
    "lon": 124.842863
   },
@@ -848,7 +848,7 @@
    "no": 28,
    "name": "Bacusanon CES",
    "barangay": "Bacusanon",
-   "status": "ongoing",
+   "status": "done",
    "dates": [
     "2026-10-12"
    ],
@@ -869,7 +869,7 @@
    "mr_pct": 20.6,
    "td_pct": 20.6,
    "hpv_pct": 10.7,
-   "needs_mopup": false,
+   "needs_mopup": true,
    "lat": 7.880394,
    "lon": 124.717242
   },
