@@ -1,7 +1,7 @@
 {
  "first_date": "October 12, 2026",
  "started": true,
- "generated": "October 13, 2026 9:05 PM",
+ "generated": "October 13, 2026 9:16 PM",
  "today": "2026-10-13",
  "kpi": {
   "mr_pct": 11.0,
@@ -1329,6 +1329,24 @@
   },
   {
    "kind": "photo",
+   "title": "SBI immunization: parents and BHW at the vaccination area",
+   "school": "Malipayon ES",
+   "school_id": 26,
+   "date": "2026-10-13",
+   "src": "img/20261013_sbi_mes_4.jpg",
+   "thumb": "img/20261013_sbi_mes_4_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "SBI vaccination: health talk before the vaccination",
+   "school": "Balogo ES",
+   "school_id": 16,
+   "date": "2026-10-13",
+   "src": "img/20261013_sbi_balogo_4.jpg",
+   "thumb": "img/20261013_sbi_balogo_4_t.jpg"
+  },
+  {
+   "kind": "photo",
    "title": "SBI immunization: RHM vaccinating a learner, BHW assisting",
    "school": "Malipayon ES",
    "school_id": 26,
@@ -1383,6 +1401,60 @@
   },
   {
    "kind": "photo",
+   "title": "SBI Kick-Off: learners waiting for their turn",
+   "school": "Kimanait NHS",
+   "school_id": 22,
+   "date": "2026-10-12",
+   "src": "img/20261012_kickoff_knhs_11.jpg",
+   "thumb": "img/20261012_kickoff_knhs_11_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "SBI Kick-Off: screening and vaccination table",
+   "school": "Kimanait NHS",
+   "school_id": 22,
+   "date": "2026-10-12",
+   "src": "img/20261012_kickoff_knhs_10.jpg",
+   "thumb": "img/20261012_kickoff_knhs_10_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "SBI Kick-Off: vaccinators preparing the vaccines",
+   "school": "Kimanait NHS",
+   "school_id": 22,
+   "date": "2026-10-12",
+   "src": "img/20261012_kickoff_knhs_9.jpg",
+   "thumb": "img/20261012_kickoff_knhs_9_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "SBI Kick-Off: program at the stage",
+   "school": "Kimanait NHS",
+   "school_id": 22,
+   "date": "2026-10-12",
+   "src": "img/20261012_kickoff_knhs_8.jpg",
+   "thumb": "img/20261012_kickoff_knhs_8_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "SBI Kick-Off: message from the program speaker",
+   "school": "Kimanait NHS",
+   "school_id": 22,
+   "date": "2026-10-12",
+   "src": "img/20261012_kickoff_knhs_7.jpg",
+   "thumb": "img/20261012_kickoff_knhs_7_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "SBI Kick-Off: with the learners at the covered court",
+   "school": "Kimanait NHS",
+   "school_id": 22,
+   "date": "2026-10-12",
+   "src": "img/20261012_kickoff_knhs_6.jpg",
+   "thumb": "img/20261012_kickoff_knhs_6_t.jpg"
+  },
+  {
+   "kind": "photo",
    "title": "SBI Kick-Off: learners at the vaccination area",
    "school": "Kimanait NHS",
    "school_id": 22,
@@ -1428,6 +1500,15 @@
   },
   {
    "kind": "photo",
+   "title": "SBI Parents' and Guardians' Orientation: parents listening",
+   "school": "Malipayon ES",
+   "school_id": 26,
+   "date": "2026-10-06",
+   "src": "img/20261006_orientation_mes_3.jpg",
+   "thumb": "img/20261006_orientation_mes_3_t.jpg"
+  },
+  {
+   "kind": "photo",
    "title": "SBI Parents' and Guardians' Orientation: session with RHMs and BHWs",
    "school": "Malipayon ES",
    "school_id": 26,
@@ -1443,6 +1524,15 @@
    "date": "2026-10-06",
    "src": "img/20261006_orientation_mes_1.jpg",
    "thumb": "img/20261006_orientation_mes_1_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "SBI Orientation: classroom session",
+   "school": "Pangantucan CES",
+   "school_id": 12,
+   "date": "2026-10-02",
+   "src": "img/20261002_orientation_pces_3.jpg",
+   "thumb": "img/20261002_orientation_pces_3_t.jpg"
   },
   {
    "kind": "photo",
