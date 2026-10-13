@@ -1,7 +1,7 @@
 {
  "first_date": "October 12, 2026",
  "started": true,
- "generated": "October 13, 2026 8:58 PM",
+ "generated": "October 13, 2026 9:05 PM",
  "today": "2026-10-13",
  "kpi": {
   "mr_pct": 11.0,
@@ -1326,6 +1326,141 @@
    "date": "",
    "src": "img/20261004_doh_0_0.jpg",
    "thumb": "img/20261004_doh_0_0_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "SBI immunization: RHM vaccinating a learner, BHW assisting",
+   "school": "Malipayon ES",
+   "school_id": 26,
+   "date": "2026-10-13",
+   "src": "img/20261013_sbi_mes_3.jpg",
+   "thumb": "img/20261013_sbi_mes_3_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "SBI immunization: learner receiving the vaccine",
+   "school": "Malipayon ES",
+   "school_id": 26,
+   "date": "2026-10-13",
+   "src": "img/20261013_sbi_mes_2.jpg",
+   "thumb": "img/20261013_sbi_mes_2_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "SBI immunization: RHM and BHW with a learner",
+   "school": "Malipayon ES",
+   "school_id": 26,
+   "date": "2026-10-13",
+   "src": "img/20261013_sbi_mes_1.jpg",
+   "thumb": "img/20261013_sbi_mes_1_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "SBI vaccination: briefing with parents",
+   "school": "Balogo ES",
+   "school_id": 16,
+   "date": "2026-10-13",
+   "src": "img/20261013_sbi_balogo_3.jpg",
+   "thumb": "img/20261013_sbi_balogo_3_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "SBI vaccination: RHM, NDP and BHWs with learners and parents",
+   "school": "Balogo ES",
+   "school_id": 16,
+   "date": "2026-10-13",
+   "src": "img/20261013_sbi_balogo_2.jpg",
+   "thumb": "img/20261013_sbi_balogo_2_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "SBI vaccination: RHM and BHW vaccinating a learner",
+   "school": "Balogo ES",
+   "school_id": 16,
+   "date": "2026-10-13",
+   "src": "img/20261013_sbi_balogo_1.jpg",
+   "thumb": "img/20261013_sbi_balogo_1_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "SBI Kick-Off: learners at the vaccination area",
+   "school": "Kimanait NHS",
+   "school_id": 22,
+   "date": "2026-10-12",
+   "src": "img/20261012_kickoff_knhs_5.jpg",
+   "thumb": "img/20261012_kickoff_knhs_5_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "SBI Kick-Off: vaccination station",
+   "school": "Kimanait NHS",
+   "school_id": 22,
+   "date": "2026-10-12",
+   "src": "img/20261012_kickoff_knhs_4.jpg",
+   "thumb": "img/20261012_kickoff_knhs_4_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "SBI Kick-Off: learners at the program",
+   "school": "Kimanait NHS",
+   "school_id": 22,
+   "date": "2026-10-12",
+   "src": "img/20261012_kickoff_knhs_3.jpg",
+   "thumb": "img/20261012_kickoff_knhs_3_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "SBI Kick-Off: opening program",
+   "school": "Kimanait NHS",
+   "school_id": 22,
+   "date": "2026-10-12",
+   "src": "img/20261012_kickoff_knhs_2.jpg",
+   "thumb": "img/20261012_kickoff_knhs_2_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "SBI Kick-Off: DepEd, RHU and BHS team",
+   "school": "Kimanait NHS",
+   "school_id": 22,
+   "date": "2026-10-12",
+   "src": "img/20261012_kickoff_knhs_1.jpg",
+   "thumb": "img/20261012_kickoff_knhs_1_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "SBI Parents' and Guardians' Orientation: session with RHMs and BHWs",
+   "school": "Malipayon ES",
+   "school_id": 26,
+   "date": "2026-10-06",
+   "src": "img/20261006_orientation_mes_2.jpg",
+   "thumb": "img/20261006_orientation_mes_2_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "SBI Parents' and Guardians' Orientation (Oct 6 & 8)",
+   "school": "Malipayon ES",
+   "school_id": 26,
+   "date": "2026-10-06",
+   "src": "img/20261006_orientation_mes_1.jpg",
+   "thumb": "img/20261006_orientation_mes_1_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "SBI Orientation: parents and guardians at the covered court",
+   "school": "Pangantucan CES",
+   "school_id": 12,
+   "date": "2026-10-02",
+   "src": "img/20261002_orientation_pces_2.jpg",
+   "thumb": "img/20261002_orientation_pces_2_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "SBI Orientation: learners in their classroom",
+   "school": "Pangantucan CES",
+   "school_id": 12,
+   "date": "2026-10-02",
+   "src": "img/20261002_orientation_pces_1.jpg",
+   "thumb": "img/20261002_orientation_pces_1_t.jpg"
   }
  ],
  "targets": {
