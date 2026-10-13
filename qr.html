@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SBI Accomplishment · QR code</title><link rel="icon" href="favicon.png">
+<style>
+  :root { --ink: #141c24; --muted: #5a646e; --brand: #0077d4; }
+  body { margin: 0; background: #fff; color: var(--ink); font: 16px/1.5 system-ui, "Segoe UI", sans-serif; }
+  .sheet { max-width: 720px; margin: 0 auto; padding: 32px 16px; text-align: center; }
+  h1 { margin: 0; font-size: 34px; letter-spacing: .5px; }
+  .bar { width: 96px; height: 5px; background: var(--brand); margin: 10px auto 14px; }
+  .sub { color: var(--muted); margin: 0 0 24px; }
+  #qr { display: inline-block; padding: 16px; border: 1px solid #d5dbe1; border-radius: 12px; }
+  #qr img, #qr canvas { display: block; width: min(360px, 80vw) !important; height: auto !important; }
+  .scan { font-size: 22px; font-weight: 700; margin: 20px 0 4px; }
+  .url { color: var(--brand); word-break: break-all; }
+  .foot { color: var(--muted); font-size: 13px; margin-top: 24px; }
+  button { margin-top: 20px; font: inherit; padding: 8px 18px; border-radius: 6px; border: 1px solid var(--brand); background: var(--brand); color: #fff; cursor: pointer; }
+  @media print { button { display: none; } .sheet { padding-top: 0; } @page { size: A4 portrait; margin: 14mm; } }
+</style></head>
+<body><div class="sheet">
+  <h1>SBI ACCOMPLISHMENT</h1><div class="bar"></div>
+  <p class="sub">Bakuna Eskwela 2026 · School-Based Immunization · Pangantucan, Bukidnon</p>
+  <div id="qr"></div>
+  <div class="scan">I-scan para makita ang progreso ng SBI</div>
+  <div>Scan to see how many students have been vaccinated, school by school</div>
+  <div class="url">https://pangantucan-pcf.github.io/sbi-accomplishment/</div>
+  <button onclick="print()">Print this poster</button>
+  <div class="foot">Pangantucan Primary Care Facility · Totals only, no personal data</div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+<script>
+  if (window.QRCode) new QRCode(document.getElementById('qr'), {text: 'https://pangantucan-pcf.github.io/sbi-accomplishment/', width: 720, height: 720, correctLevel: QRCode.CorrectLevel.M});
+  else document.getElementById('qr').textContent = 'QR code needs an internet connection to draw.';
+</script>
+</body></html>

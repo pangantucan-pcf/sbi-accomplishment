@@ -1,7 +1,7 @@
 {
  "first_date": "October 12, 2026",
  "started": true,
- "generated": "October 13, 2026 9:41 PM",
+ "generated": "October 13, 2026 9:57 PM",
  "today": "2026-10-13",
  "kpi": {
   "mr_pct": 11.0,
@@ -1419,30 +1419,12 @@
   },
   {
    "kind": "photo",
-   "title": "SBI Kick-Off: screening and vaccination table",
-   "school": "Kimanait NHS",
-   "school_id": 22,
-   "date": "2026-10-12",
-   "src": "img/20261012_kickoff_knhs_10.jpg",
-   "thumb": "img/20261012_kickoff_knhs_10_t.jpg"
-  },
-  {
-   "kind": "photo",
    "title": "SBI Kick-Off: vaccinators preparing the vaccines",
    "school": "Kimanait NHS",
    "school_id": 22,
    "date": "2026-10-12",
    "src": "img/20261012_kickoff_knhs_9.jpg",
    "thumb": "img/20261012_kickoff_knhs_9_t.jpg"
-  },
-  {
-   "kind": "photo",
-   "title": "SBI Kick-Off: program at the stage",
-   "school": "Kimanait NHS",
-   "school_id": 22,
-   "date": "2026-10-12",
-   "src": "img/20261012_kickoff_knhs_8.jpg",
-   "thumb": "img/20261012_kickoff_knhs_8_t.jpg"
   },
   {
    "kind": "photo",
@@ -1455,30 +1437,12 @@
   },
   {
    "kind": "photo",
-   "title": "SBI Kick-Off: learners at the vaccination area",
-   "school": "Kimanait NHS",
-   "school_id": 22,
-   "date": "2026-10-12",
-   "src": "img/20261012_kickoff_knhs_5.jpg",
-   "thumb": "img/20261012_kickoff_knhs_5_t.jpg"
-  },
-  {
-   "kind": "photo",
    "title": "SBI Kick-Off: vaccination station",
    "school": "Kimanait NHS",
    "school_id": 22,
    "date": "2026-10-12",
    "src": "img/20261012_kickoff_knhs_4.jpg",
    "thumb": "img/20261012_kickoff_knhs_4_t.jpg"
-  },
-  {
-   "kind": "photo",
-   "title": "SBI Kick-Off: learners at the program",
-   "school": "Kimanait NHS",
-   "school_id": 22,
-   "date": "2026-10-12",
-   "src": "img/20261012_kickoff_knhs_3.jpg",
-   "thumb": "img/20261012_kickoff_knhs_3_t.jpg"
   },
   {
    "kind": "photo",
