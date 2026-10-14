@@ -1,27 +1,27 @@
 {
  "first_date": "October 12, 2026",
  "started": true,
- "generated": "October 14, 2026 7:28 PM",
+ "generated": "October 14, 2026 7:35 PM",
  "today": "2026-10-14",
  "kpi": {
-  "mr_pct": 11.0,
-  "td_pct": 11.0,
-  "hpv_pct": 15.4,
-  "mr": 257,
-  "td": 257,
-  "hpv": 95,
+  "mr_pct": 12.5,
+  "td_pct": 12.5,
+  "hpv_pct": 16.3,
+  "mr": 291,
+  "td": 291,
+  "hpv": 100,
   "elig_mrtd": 2326,
   "elig_hpv": 615,
-  "vaxed": 352,
+  "vaxed": 391,
   "elig_total": 2941,
-  "vaxed_pct": 12.0,
+  "vaxed_pct": 13.3,
   "schools": 36,
-  "done": 12,
-  "ongoing": 9,
+  "done": 14,
+  "ongoing": 7,
   "hpv_g5": 3,
   "elig_g5": 625,
   "upcoming": 15,
-  "mopup": 11
+  "mopup": 13
  },
  "schools": [
   {
@@ -74,14 +74,14 @@
    "elig_mrtd": 15,
    "elig_hpv": 8,
    "elig_total": 23,
-   "mr": 0,
-   "td": 0,
-   "hpv_any": 0,
+   "mr": 7,
+   "td": 7,
+   "hpv_any": 2,
    "hpv_g5": 0,
-   "vaxed": 0,
-   "mr_pct": 0.0,
-   "td_pct": 0.0,
-   "hpv_pct": 0.0,
+   "vaxed": 9,
+   "mr_pct": 46.7,
+   "td_pct": 46.7,
+   "hpv_pct": 25.0,
    "needs_mopup": false,
    "lat": 7.777158,
    "lon": 124.863306
@@ -308,7 +308,7 @@
    "no": 10,
    "name": "Mendiz ES",
    "barangay": "Mendis",
-   "status": "ongoing",
+   "status": "done",
    "dates": [
     "2026-10-12",
     "2026-10-14"
@@ -323,15 +323,15 @@
    "elig_mrtd": 72,
    "elig_hpv": 13,
    "elig_total": 85,
-   "mr": 20,
-   "td": 20,
-   "hpv_any": 4,
+   "mr": 22,
+   "td": 22,
+   "hpv_any": 6,
    "hpv_g5": 0,
-   "vaxed": 24,
-   "mr_pct": 27.8,
-   "td_pct": 27.8,
-   "hpv_pct": 30.8,
-   "needs_mopup": false,
+   "vaxed": 28,
+   "mr_pct": 30.6,
+   "td_pct": 30.6,
+   "hpv_pct": 46.2,
+   "needs_mopup": true,
    "lat": 7.870925,
    "lon": 124.811651
   },
@@ -598,7 +598,7 @@
    "no": 19,
    "name": "Bangahan IS",
    "barangay": "Bangahan",
-   "status": "ongoing",
+   "status": "done",
    "dates": [
     "2026-10-13",
     "2026-10-14"
@@ -613,15 +613,15 @@
    "elig_mrtd": 110,
    "elig_hpv": 31,
    "elig_total": 141,
-   "mr": 0,
-   "td": 0,
-   "hpv_any": 11,
+   "mr": 20,
+   "td": 20,
+   "hpv_any": 12,
    "hpv_g5": 0,
-   "vaxed": 11,
-   "mr_pct": 0.0,
-   "td_pct": 0.0,
-   "hpv_pct": 35.5,
-   "needs_mopup": false,
+   "vaxed": 32,
+   "mr_pct": 18.2,
+   "td_pct": 18.2,
+   "hpv_pct": 38.7,
+   "needs_mopup": true,
    "lat": 7.648653,
    "lon": 124.822807
   },
@@ -1110,13 +1110,13 @@
    "elig_mrtd": 132,
    "elig_hpv": 38,
    "elig_total": 170,
-   "mr": 49,
-   "td": 49,
+   "mr": 54,
+   "td": 54,
    "hpv_any": 18,
    "hpv_g5": 0,
-   "vaxed": 67,
-   "mr_pct": 37.1,
-   "td_pct": 37.1,
+   "vaxed": 72,
+   "mr_pct": 40.9,
+   "td_pct": 40.9,
    "hpv_pct": 47.4,
    "needs_mopup": true,
    "lat": 7.873679,
@@ -1172,40 +1172,49 @@
    "cum_MR": 257,
    "cum_Td": 257,
    "cum_HPV": 95
+  },
+  {
+   "date": "2026-10-14",
+   "MR": 34,
+   "Td": 34,
+   "HPV": 5,
+   "cum_MR": 291,
+   "cum_Td": 291,
+   "cum_HPV": 100
   }
  ],
  "reasons": [
   {
    "code": 2,
    "label": "Fear of vaccine side effect",
-   "count": 35
+   "count": 70
   },
   {
    "code": 4,
    "label": "Child already has complete routine vaccination",
-   "count": 17
+   "count": 34
   },
   {
    "code": 9,
    "label": "Personal beliefs, misconceptions or religious beliefs",
-   "count": 4
+   "count": 8
   },
   {
    "code": 15,
    "label": "Child was acutely sick or not feeling well",
-   "count": 4
+   "count": 6
   },
   {
    "code": 18,
    "label": "Other",
-   "count": 4
+   "count": 6
   }
  ],
  "defer_refuse": [
   {
    "grade": "Grade 1",
-   "deferred": 6,
-   "refused": 76
+   "deferred": 12,
+   "refused": 82
   },
   {
    "grade": "Gr 4-5 Female",
@@ -1215,7 +1224,7 @@
   {
    "grade": "Grade 7",
    "deferred": 0,
-   "refused": 0
+   "refused": 2
   }
  ],
  "media": [
