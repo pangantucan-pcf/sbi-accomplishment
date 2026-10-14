@@ -1,7 +1,7 @@
 {
  "first_date": "October 12, 2026",
  "started": true,
- "generated": "October 14, 2026 7:58 PM",
+ "generated": "October 14, 2026 8:01 PM",
  "today": "2026-10-14",
  "kpi": {
   "mr_pct": 12.5,
@@ -17,10 +17,10 @@
   "vaxed_pct": 13.3,
   "schools": 36,
   "done": 14,
-  "ongoing": 7,
+  "ongoing": 8,
   "hpv_g5": 3,
   "elig_g5": 625,
-  "upcoming": 15,
+  "upcoming": 14,
   "mopup": 13
  },
  "schools": [
@@ -60,13 +60,14 @@
    "no": 2,
    "name": "Jarque ES",
    "barangay": "Adtuyon",
-   "status": "upcoming",
+   "status": "ongoing",
    "dates": [
+    "2026-10-14",
     "2026-10-19"
    ],
-   "schedule": "October 19, 2026",
-   "today": false,
-   "next_date": "2026-10-19",
+   "schedule": "October 14 & 19, 2026",
+   "today": true,
+   "next_date": "2026-10-14",
    "elig_g1": 15,
    "elig_g7": 0,
    "elig_g4f": 8,
@@ -311,9 +312,10 @@
    "status": "done",
    "dates": [
     "2026-10-12",
+    "2026-10-13",
     "2026-10-14"
    ],
-   "schedule": "October 12&14, 2026",
+   "schedule": "October 12-14, 2026",
    "today": true,
    "next_date": "2026-10-14",
    "elig_g1": 42,
@@ -1098,11 +1100,12 @@
    "barangay": "Pigtauranan",
    "status": "done",
    "dates": [
-    "2026-10-13"
+    "2026-10-13",
+    "2026-10-14"
    ],
-   "schedule": "October 13, 2026",
-   "today": false,
-   "next_date": null,
+   "schedule": "October 13-14, 2026",
+   "today": true,
+   "next_date": "2026-10-14",
    "elig_g1": 81,
    "elig_g7": 51,
    "elig_g4f": 38,
