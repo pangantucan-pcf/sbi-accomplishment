@@ -1,26 +1,26 @@
 {
  "first_date": "October 12, 2026",
  "started": true,
- "generated": "October 14, 2026 8:28 PM",
- "today": "2026-10-14",
+ "generated": "October 15, 2026 8:30 PM",
+ "today": "2026-10-15",
  "kpi": {
-  "mr_pct": 12.5,
-  "td_pct": 12.5,
-  "hpv_pct": 16.3,
-  "mr": 291,
-  "td": 291,
-  "hpv": 100,
+  "mr_pct": 12.9,
+  "td_pct": 12.9,
+  "hpv_pct": 17.2,
+  "mr": 301,
+  "td": 301,
+  "hpv": 106,
   "elig_mrtd": 2326,
   "elig_hpv": 615,
-  "vaxed": 391,
+  "vaxed": 407,
   "elig_total": 2941,
-  "vaxed_pct": 13.3,
+  "vaxed_pct": 13.8,
   "schools": 36,
-  "done": 14,
+  "done": 18,
   "ongoing": 8,
   "hpv_g5": 3,
-  "upcoming": 14,
-  "mopup": 13
+  "upcoming": 10,
+  "mopup": 14
  },
  "schools": [
   {
@@ -28,12 +28,12 @@
    "no": 1,
    "name": "Adtuyon ES",
    "barangay": "Adtuyon",
-   "status": "upcoming",
+   "status": "ongoing",
    "dates": [
     "2026-10-15"
    ],
    "schedule": "October 15, 2026",
-   "today": false,
+   "today": true,
    "next_date": "2026-10-15",
    "elig_g1": 53,
    "elig_g7": 0,
@@ -64,8 +64,8 @@
     "2026-10-19"
    ],
    "schedule": "October 14 & 19, 2026",
-   "today": true,
-   "next_date": "2026-10-14",
+   "today": false,
+   "next_date": "2026-10-19",
    "elig_g1": 15,
    "elig_g7": 0,
    "elig_g4f": 8,
@@ -89,13 +89,13 @@
    "no": 3,
    "name": "San Isidro ES",
    "barangay": "Adtuyon",
-   "status": "ongoing",
+   "status": "done",
    "dates": [
     "2026-10-14"
    ],
    "schedule": "October 14, 2026",
-   "today": true,
-   "next_date": "2026-10-14",
+   "today": false,
+   "next_date": null,
    "elig_g1": 16,
    "elig_g7": 17,
    "elig_g4f": 12,
@@ -119,12 +119,12 @@
    "no": 4,
    "name": "Barandias IS",
    "barangay": "Barandias",
-   "status": "upcoming",
+   "status": "ongoing",
    "dates": [
     "2026-10-15"
    ],
    "schedule": "October 15, 2026",
-   "today": false,
+   "today": true,
    "next_date": "2026-10-15",
    "elig_g1": 90,
    "elig_g7": 21,
@@ -179,12 +179,12 @@
    "no": 6,
    "name": "Kidanggin ES",
    "barangay": "Gandingan",
-   "status": "upcoming",
+   "status": "ongoing",
    "dates": [
     "2026-10-15"
    ],
    "schedule": "October 15, 2026",
-   "today": false,
+   "today": true,
    "next_date": "2026-10-15",
    "elig_g1": 10,
    "elig_g7": 0,
@@ -239,13 +239,13 @@
    "no": 8,
    "name": "San Vicente ES",
    "barangay": "Lantay",
-   "status": "ongoing",
+   "status": "done",
    "dates": [
     "2026-10-14"
    ],
    "schedule": "October 14, 2026",
-   "today": true,
-   "next_date": "2026-10-14",
+   "today": false,
+   "next_date": null,
    "elig_g1": 8,
    "elig_g7": 0,
    "elig_g4f": 1,
@@ -306,8 +306,8 @@
     "2026-10-14"
    ],
    "schedule": "October 12-14, 2026",
-   "today": true,
-   "next_date": "2026-10-14",
+   "today": false,
+   "next_date": null,
    "elig_g1": 42,
    "elig_g7": 30,
    "elig_g4f": 13,
@@ -370,7 +370,7 @@
     "2026-10-27"
    ],
    "schedule": "October 13,15,16,26,27, 2026",
-   "today": false,
+   "today": true,
    "next_date": "2026-10-15",
    "elig_g1": 267,
    "elig_g7": 0,
@@ -494,7 +494,7 @@
     "2026-10-15"
    ],
    "schedule": "October 13&15, 2026",
-   "today": false,
+   "today": true,
    "next_date": "2026-10-15",
    "elig_g1": 23,
    "elig_g7": 0,
@@ -587,8 +587,8 @@
     "2026-10-14"
    ],
    "schedule": "October 13&14, 2026",
-   "today": true,
-   "next_date": "2026-10-14",
+   "today": false,
+   "next_date": null,
    "elig_g1": 50,
    "elig_g7": 60,
    "elig_g4f": 31,
@@ -702,13 +702,13 @@
    "no": 23,
    "name": "Pangadian Té Apu Mansadék",
    "barangay": "Kimanait",
-   "status": "ongoing",
+   "status": "done",
    "dates": [
     "2026-10-14"
    ],
    "schedule": "October 14, 2026",
-   "today": true,
-   "next_date": "2026-10-14",
+   "today": false,
+   "next_date": null,
    "elig_g1": 8,
    "elig_g7": 0,
    "elig_g4f": 5,
@@ -822,28 +822,28 @@
    "no": 27,
    "name": "Payad ES",
    "barangay": "Payad",
-   "status": "ongoing",
+   "status": "done",
    "dates": [
     "2026-10-14"
    ],
    "schedule": "October 14, 2026",
-   "today": true,
-   "next_date": "2026-10-14",
+   "today": false,
+   "next_date": null,
    "elig_g1": 19,
    "elig_g7": 0,
    "elig_g4f": 4,
    "elig_mrtd": 19,
    "elig_hpv": 4,
    "elig_total": 23,
-   "mr": 0,
-   "td": 0,
-   "hpv_any": 0,
+   "mr": 10,
+   "td": 10,
+   "hpv_any": 6,
    "hpv_g5": 0,
-   "vaxed": 0,
-   "mr_pct": 0.0,
-   "td_pct": 0.0,
-   "hpv_pct": 0.0,
-   "needs_mopup": false,
+   "vaxed": 16,
+   "mr_pct": 52.6,
+   "td_pct": 52.6,
+   "hpv_pct": 150.0,
+   "needs_mopup": true,
    "lat": 7.564372,
    "lon": 124.854276
   },
@@ -882,12 +882,12 @@
    "no": 29,
    "name": "Bacusanon NHS",
    "barangay": "Bacusanon",
-   "status": "upcoming",
+   "status": "ongoing",
    "dates": [
     "2026-10-15"
    ],
    "schedule": "October 15, 2026",
-   "today": false,
+   "today": true,
    "next_date": "2026-10-15",
    "elig_g1": 0,
    "elig_g7": 195,
@@ -1069,8 +1069,8 @@
     "2026-10-14"
    ],
    "schedule": "October 13-14, 2026",
-   "today": true,
-   "next_date": "2026-10-14",
+   "today": false,
+   "next_date": null,
    "elig_g1": 81,
    "elig_g7": 51,
    "elig_g4f": 38,
@@ -1141,29 +1141,29 @@
   },
   {
    "date": "2026-10-14",
-   "MR": 34,
-   "Td": 34,
-   "HPV": 5,
-   "cum_MR": 291,
-   "cum_Td": 291,
-   "cum_HPV": 100
+   "MR": 44,
+   "Td": 44,
+   "HPV": 11,
+   "cum_MR": 301,
+   "cum_Td": 301,
+   "cum_HPV": 106
   }
  ],
  "reasons": [
   {
    "code": 2,
    "label": "Fear of vaccine side effect",
-   "count": 70
+   "count": 36
   },
   {
    "code": 4,
    "label": "Child already has complete routine vaccination",
-   "count": 34
+   "count": 17
   },
   {
    "code": 9,
    "label": "Personal beliefs, misconceptions or religious beliefs",
-   "count": 8
+   "count": 7
   },
   {
    "code": 15,
@@ -1173,7 +1173,7 @@
   {
    "code": 18,
    "label": "Other",
-   "count": 6
+   "count": 5
   }
  ],
  "defer_refuse": [
