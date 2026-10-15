@@ -1,7 +1,7 @@
 {
  "first_date": "October 12, 2026",
  "started": true,
- "generated": "October 15, 2026 8:30 PM",
+ "generated": "October 15, 2026 9:14 PM",
  "today": "2026-10-15",
  "kpi": {
   "mr_pct": 12.9,
@@ -16,8 +16,9 @@
   "elig_total": 2941,
   "vaxed_pct": 13.8,
   "schools": 36,
-  "done": 18,
+  "done": 14,
   "ongoing": 8,
+  "awaiting": 4,
   "hpv_g5": 3,
   "upcoming": 10,
   "mopup": 14
@@ -89,7 +90,7 @@
    "no": 3,
    "name": "San Isidro ES",
    "barangay": "Adtuyon",
-   "status": "done",
+   "status": "awaiting",
    "dates": [
     "2026-10-14"
    ],
@@ -239,7 +240,7 @@
    "no": 8,
    "name": "San Vicente ES",
    "barangay": "Lantay",
-   "status": "done",
+   "status": "awaiting",
    "dates": [
     "2026-10-14"
    ],
@@ -642,7 +643,7 @@
    "no": 21,
    "name": "Kimanait ES",
    "barangay": "Kimanait",
-   "status": "done",
+   "status": "awaiting",
    "dates": [
     "2026-10-13"
    ],
@@ -702,7 +703,7 @@
    "no": 23,
    "name": "Pangadian Té Apu Mansadék",
    "barangay": "Kimanait",
-   "status": "done",
+   "status": "awaiting",
    "dates": [
     "2026-10-14"
    ],
