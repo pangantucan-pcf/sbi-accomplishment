@@ -1,8 +1,8 @@
 {
  "first_date": "October 12, 2026",
  "started": true,
- "generated": "October 15, 2026 9:18 PM",
- "today": "2026-10-15",
+ "generated": "October 16, 2026 8:25 AM",
+ "today": "2026-10-16",
  "kpi": {
   "mr_pct": 12.9,
   "td_pct": 12.9,
@@ -16,12 +16,12 @@
   "elig_total": 2941,
   "vaxed_pct": 13.8,
   "schools": 36,
-  "done": 14,
-  "ongoing": 8,
-  "awaiting": 4,
+  "done": 15,
+  "ongoing": 4,
+  "awaiting": 8,
   "hpv_g5": 3,
-  "upcoming": 10,
-  "mopup": 14
+  "upcoming": 9,
+  "mopup": 15
  },
  "schools": [
   {
@@ -29,13 +29,13 @@
    "no": 1,
    "name": "Adtuyon ES",
    "barangay": "Adtuyon",
-   "status": "ongoing",
+   "status": "awaiting",
    "dates": [
     "2026-10-15"
    ],
    "schedule": "October 15, 2026",
-   "today": true,
-   "next_date": "2026-10-15",
+   "today": false,
+   "next_date": null,
    "elig_g1": 53,
    "elig_g7": 0,
    "elig_g4f": 22,
@@ -120,13 +120,13 @@
    "no": 4,
    "name": "Barandias IS",
    "barangay": "Barandias",
-   "status": "ongoing",
+   "status": "awaiting",
    "dates": [
     "2026-10-15"
    ],
    "schedule": "October 15, 2026",
-   "today": true,
-   "next_date": "2026-10-15",
+   "today": false,
+   "next_date": null,
    "elig_g1": 90,
    "elig_g7": 21,
    "elig_g4f": 35,
@@ -180,13 +180,13 @@
    "no": 6,
    "name": "Kidanggin ES",
    "barangay": "Gandingan",
-   "status": "ongoing",
+   "status": "awaiting",
    "dates": [
     "2026-10-15"
    ],
    "schedule": "October 15, 2026",
-   "today": true,
-   "next_date": "2026-10-15",
+   "today": false,
+   "next_date": null,
    "elig_g1": 10,
    "elig_g7": 0,
    "elig_g4f": 3,
@@ -372,7 +372,7 @@
    ],
    "schedule": "October 13,15,16,26,27, 2026",
    "today": true,
-   "next_date": "2026-10-15",
+   "next_date": "2026-10-16",
    "elig_g1": 267,
    "elig_g7": 0,
    "elig_g4f": 151,
@@ -489,14 +489,14 @@
    "no": 16,
    "name": "Balogo ES",
    "barangay": "Langcataon",
-   "status": "ongoing",
+   "status": "done",
    "dates": [
     "2026-10-13",
     "2026-10-15"
    ],
    "schedule": "October 13&15, 2026",
-   "today": true,
-   "next_date": "2026-10-15",
+   "today": false,
+   "next_date": null,
    "elig_g1": 23,
    "elig_g7": 0,
    "elig_g4f": 9,
@@ -511,7 +511,7 @@
    "mr_pct": 34.8,
    "td_pct": 34.8,
    "hpv_pct": 11.1,
-   "needs_mopup": false,
+   "needs_mopup": true,
    "lat": 7.609234,
    "lon": 124.863412
   },
@@ -883,13 +883,13 @@
    "no": 29,
    "name": "Bacusanon NHS",
    "barangay": "Bacusanon",
-   "status": "ongoing",
+   "status": "awaiting",
    "dates": [
     "2026-10-15"
    ],
    "schedule": "October 15, 2026",
-   "today": true,
-   "next_date": "2026-10-15",
+   "today": false,
+   "next_date": null,
    "elig_g1": 0,
    "elig_g7": 195,
    "elig_g4f": 0,
@@ -913,12 +913,12 @@
    "no": 30,
    "name": "Quarry ES",
    "barangay": "Bacusanon",
-   "status": "upcoming",
+   "status": "ongoing",
    "dates": [
     "2026-10-16"
    ],
    "schedule": "October 16, 2026",
-   "today": false,
+   "today": true,
    "next_date": "2026-10-16",
    "elig_g1": 22,
    "elig_g7": 0,
