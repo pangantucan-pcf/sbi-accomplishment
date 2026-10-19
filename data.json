@@ -1,27 +1,27 @@
 {
  "first_date": "October 12, 2026",
  "started": true,
- "generated": "October 19, 2026 5:28 PM",
+ "generated": "October 19, 2026 5:37 PM",
  "today": "2026-10-19",
  "kpi": {
-  "mr_pct": 18.7,
-  "td_pct": 18.7,
-  "hpv_pct": 23.3,
-  "mr": 436,
-  "td": 436,
-  "hpv": 143,
+  "mr_pct": 19.2,
+  "td_pct": 19.2,
+  "hpv_pct": 25.0,
+  "mr": 446,
+  "td": 446,
+  "hpv": 154,
   "elig_mrtd": 2326,
   "elig_hpv": 615,
-  "vaxed": 579,
+  "vaxed": 600,
   "elig_total": 2941,
-  "vaxed_pct": 19.7,
+  "vaxed_pct": 20.4,
   "schools": 36,
-  "done": 19,
-  "ongoing": 7,
+  "done": 20,
+  "ongoing": 6,
   "awaiting": 6,
   "hpv_g5": 9,
   "upcoming": 4,
-  "mopup": 19
+  "mopup": 20
  },
  "schools": [
   {
@@ -534,14 +534,14 @@
    "elig_mrtd": 40,
    "elig_hpv": 16,
    "elig_total": 56,
-   "mr": 0,
-   "td": 0,
-   "hpv_any": 0,
+   "mr": 10,
+   "td": 10,
+   "hpv_any": 5,
    "hpv_g5": 0,
-   "vaxed": 0,
-   "mr_pct": 0.0,
-   "td_pct": 0.0,
-   "hpv_pct": 0.0,
+   "vaxed": 15,
+   "mr_pct": 25.0,
+   "td_pct": 25.0,
+   "hpv_pct": 31.2,
    "needs_mopup": false,
    "lat": 7.637753,
    "lon": 124.854361
@@ -613,7 +613,7 @@
    "no": 20,
    "name": "Upper Rancho ES (under Bangahan IS)",
    "barangay": "Bangahan",
-   "status": "ongoing",
+   "status": "done",
    "dates": [
     "2026-10-19"
    ],
@@ -628,13 +628,13 @@
    "elig_total": 22,
    "mr": 0,
    "td": 0,
-   "hpv_any": 0,
+   "hpv_any": 6,
    "hpv_g5": 0,
-   "vaxed": 0,
+   "vaxed": 6,
    "mr_pct": 0.0,
    "td_pct": 0.0,
-   "hpv_pct": 0.0,
-   "needs_mopup": false,
+   "hpv_pct": 66.7,
+   "needs_mopup": true,
    "lat": 7.674525,
    "lon": 124.805439
   },
@@ -1169,12 +1169,12 @@
   },
   {
    "date": "2026-10-19",
-   "MR": 88,
-   "Td": 88,
-   "HPV": 20,
-   "cum_MR": 436,
-   "cum_Td": 436,
-   "cum_HPV": 143
+   "MR": 98,
+   "Td": 98,
+   "HPV": 31,
+   "cum_MR": 446,
+   "cum_Td": 446,
+   "cum_HPV": 154
   }
  ],
  "reasons": [
@@ -1263,6 +1263,15 @@
     74
    ]
   ],
+  "17": [
+   [
+    "2026-10-19",
+    10,
+    10,
+    5,
+    15
+   ]
+  ],
   "3": [
    [
     "2026-10-19",
@@ -1270,6 +1279,15 @@
     4,
     5,
     9
+   ]
+  ],
+  "20": [
+   [
+    "2026-10-19",
+    0,
+    0,
+    6,
+    6
    ]
   ],
   "11": [
@@ -1495,12 +1513,12 @@
   {
    "grade": "Grade 1",
    "deferred": 22,
-   "refused": 258
+   "refused": 292
   },
   {
    "grade": "Gr 4-5 Female",
    "deferred": 9,
-   "refused": 64
+   "refused": 67
   },
   {
    "grade": "Grade 7",
