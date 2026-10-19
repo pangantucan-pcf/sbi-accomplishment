@@ -1,7 +1,7 @@
 {
  "first_date": "October 12, 2026",
  "started": true,
- "generated": "October 19, 2026 5:38 PM",
+ "generated": "October 19, 2026 5:40 PM",
  "today": "2026-10-19",
  "kpi": {
   "mr_pct": 19.2,
@@ -1642,6 +1642,51 @@
   },
   {
    "kind": "photo",
+   "title": "1st day of SBI: vaccination station at the AVR",
+   "school": "Pangantucan CES",
+   "school_id": 12,
+   "date": "2026-10-13",
+   "src": "img/20261013_sbi_pces_5.jpg",
+   "thumb": "img/20261013_sbi_pces_5_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "1st day of SBI: vaccinating a learner at the AVR",
+   "school": "Pangantucan CES",
+   "school_id": 12,
+   "date": "2026-10-13",
+   "src": "img/20261013_sbi_pces_4.jpg",
+   "thumb": "img/20261013_sbi_pces_4_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "1st day of SBI: ready with the vaccination card",
+   "school": "Pangantucan CES",
+   "school_id": 12,
+   "date": "2026-10-13",
+   "src": "img/20261013_sbi_pces_3.jpg",
+   "thumb": "img/20261013_sbi_pces_3_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "1st day of SBI: learner with his vaccination card",
+   "school": "Pangantucan CES",
+   "school_id": 12,
+   "date": "2026-10-13",
+   "src": "img/20261013_sbi_pces_2.jpg",
+   "thumb": "img/20261013_sbi_pces_2_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "1st day of SBI: the Nurse, RHMs and BHWs team",
+   "school": "Pangantucan CES",
+   "school_id": 12,
+   "date": "2026-10-13",
+   "src": "img/20261013_sbi_pces_1.jpg",
+   "thumb": "img/20261013_sbi_pces_1_t.jpg"
+  },
+  {
+   "kind": "photo",
    "title": "SBI immunization: BHW and RHM keeping a learner at ease",
    "school": "Malipayon ES",
    "school_id": 26,
@@ -1720,6 +1765,24 @@
    "date": "2026-10-13",
    "src": "img/20261013_sbi_balogo_1.jpg",
    "thumb": "img/20261013_sbi_balogo_1_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "SBI Orientation: learners at the covered court",
+   "school": "Pangantucan NHS",
+   "school_id": 13,
+   "date": "2026-10-12",
+   "src": "img/20261012_orientation_pnhs_2.jpg",
+   "thumb": "img/20261012_orientation_pnhs_2_t.jpg"
+  },
+  {
+   "kind": "photo",
+   "title": "SBI Orientation: briefing for Pangantucan NHS learners",
+   "school": "Pangantucan NHS",
+   "school_id": 13,
+   "date": "2026-10-12",
+   "src": "img/20261012_orientation_pnhs_1.jpg",
+   "thumb": "img/20261012_orientation_pnhs_1_t.jpg"
   },
   {
    "kind": "photo",
