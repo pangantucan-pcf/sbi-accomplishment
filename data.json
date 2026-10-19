@@ -1,27 +1,27 @@
 {
  "first_date": "October 12, 2026",
  "started": true,
- "generated": "October 16, 2026 4:49 PM",
- "today": "2026-10-16",
+ "generated": "October 19, 2026 5:28 PM",
+ "today": "2026-10-19",
  "kpi": {
-  "mr_pct": 12.9,
-  "td_pct": 12.9,
-  "hpv_pct": 17.2,
-  "mr": 301,
-  "td": 301,
-  "hpv": 106,
+  "mr_pct": 18.7,
+  "td_pct": 18.7,
+  "hpv_pct": 23.3,
+  "mr": 436,
+  "td": 436,
+  "hpv": 143,
   "elig_mrtd": 2326,
   "elig_hpv": 615,
-  "vaxed": 407,
+  "vaxed": 579,
   "elig_total": 2941,
-  "vaxed_pct": 13.8,
+  "vaxed_pct": 19.7,
   "schools": 36,
-  "done": 15,
-  "ongoing": 4,
-  "awaiting": 8,
-  "hpv_g5": 3,
-  "upcoming": 9,
-  "mopup": 15
+  "done": 19,
+  "ongoing": 7,
+  "awaiting": 6,
+  "hpv_g5": 9,
+  "upcoming": 4,
+  "mopup": 19
  },
  "schools": [
   {
@@ -65,7 +65,7 @@
     "2026-10-19"
    ],
    "schedule": "October 14 & 19, 2026",
-   "today": false,
+   "today": true,
    "next_date": "2026-10-19",
    "elig_g1": 15,
    "elig_g7": 0,
@@ -90,7 +90,7 @@
    "no": 3,
    "name": "San Isidro ES",
    "barangay": "Adtuyon",
-   "status": "awaiting",
+   "status": "done",
    "dates": [
     "2026-10-14"
    ],
@@ -103,15 +103,15 @@
    "elig_mrtd": 33,
    "elig_hpv": 12,
    "elig_total": 45,
-   "mr": 0,
-   "td": 0,
-   "hpv_any": 0,
+   "mr": 4,
+   "td": 4,
+   "hpv_any": 5,
    "hpv_g5": 0,
-   "vaxed": 0,
-   "mr_pct": 0.0,
-   "td_pct": 0.0,
-   "hpv_pct": 0.0,
-   "needs_mopup": false,
+   "vaxed": 9,
+   "mr_pct": 12.1,
+   "td_pct": 12.1,
+   "hpv_pct": 41.7,
+   "needs_mopup": true,
    "lat": 7.785618,
    "lon": 124.831021
   },
@@ -120,7 +120,7 @@
    "no": 4,
    "name": "Barandias IS",
    "barangay": "Barandias",
-   "status": "awaiting",
+   "status": "done",
    "dates": [
     "2026-10-15"
    ],
@@ -133,15 +133,15 @@
    "elig_mrtd": 111,
    "elig_hpv": 35,
    "elig_total": 146,
-   "mr": 0,
-   "td": 0,
-   "hpv_any": 0,
+   "mr": 32,
+   "td": 32,
+   "hpv_any": 8,
    "hpv_g5": 0,
-   "vaxed": 0,
-   "mr_pct": 0.0,
-   "td_pct": 0.0,
-   "hpv_pct": 0.0,
-   "needs_mopup": false,
+   "vaxed": 40,
+   "mr_pct": 28.8,
+   "td_pct": 28.8,
+   "hpv_pct": 22.9,
+   "needs_mopup": true,
    "lat": 7.823716,
    "lon": 124.784347
   },
@@ -345,14 +345,14 @@
    "elig_mrtd": 38,
    "elig_hpv": 10,
    "elig_total": 48,
-   "mr": 5,
-   "td": 5,
-   "hpv_any": 6,
+   "mr": 9,
+   "td": 9,
+   "hpv_any": 7,
    "hpv_g5": 0,
-   "vaxed": 11,
-   "mr_pct": 13.2,
-   "td_pct": 13.2,
-   "hpv_pct": 60.0,
+   "vaxed": 16,
+   "mr_pct": 23.7,
+   "td_pct": 23.7,
+   "hpv_pct": 70.0,
    "needs_mopup": true,
    "lat": 7.879573,
    "lon": 124.837303
@@ -371,22 +371,22 @@
     "2026-10-27"
    ],
    "schedule": "October 13,15,16,26,27, 2026",
-   "today": true,
-   "next_date": "2026-10-16",
+   "today": false,
+   "next_date": "2026-10-26",
    "elig_g1": 267,
    "elig_g7": 0,
    "elig_g4f": 151,
    "elig_mrtd": 267,
    "elig_hpv": 151,
    "elig_total": 418,
-   "mr": 18,
-   "td": 18,
-   "hpv_any": 14,
+   "mr": 27,
+   "td": 27,
+   "hpv_any": 17,
    "hpv_g5": 2,
-   "vaxed": 32,
-   "mr_pct": 6.7,
-   "td_pct": 6.7,
-   "hpv_pct": 9.3,
+   "vaxed": 44,
+   "mr_pct": 10.1,
+   "td_pct": 10.1,
+   "hpv_pct": 11.3,
    "needs_mopup": false,
    "lat": 7.828764,
    "lon": 124.830859
@@ -396,7 +396,7 @@
    "no": 13,
    "name": "Pangantucan NHS",
    "barangay": "Poblacion",
-   "status": "upcoming",
+   "status": "ongoing",
    "dates": [
     "2026-10-19",
     "2026-10-20",
@@ -404,7 +404,7 @@
     "2026-10-30"
    ],
    "schedule": "October 19,20,29,30, 2026",
-   "today": false,
+   "today": true,
    "next_date": "2026-10-19",
    "elig_g1": 0,
    "elig_g7": 456,
@@ -412,13 +412,13 @@
    "elig_mrtd": 456,
    "elig_hpv": 0,
    "elig_total": 456,
-   "mr": 0,
-   "td": 0,
+   "mr": 74,
+   "td": 74,
    "hpv_any": 0,
    "hpv_g5": 0,
-   "vaxed": 0,
-   "mr_pct": 0.0,
-   "td_pct": 0.0,
+   "vaxed": 74,
+   "mr_pct": 16.2,
+   "td_pct": 16.2,
    "hpv_pct": 0.0,
    "needs_mopup": false,
    "lat": 7.835911,
@@ -503,14 +503,14 @@
    "elig_mrtd": 23,
    "elig_hpv": 9,
    "elig_total": 32,
-   "mr": 8,
-   "td": 8,
-   "hpv_any": 1,
+   "mr": 14,
+   "td": 14,
+   "hpv_any": 3,
    "hpv_g5": 0,
-   "vaxed": 9,
-   "mr_pct": 34.8,
-   "td_pct": 34.8,
-   "hpv_pct": 11.1,
+   "vaxed": 17,
+   "mr_pct": 60.9,
+   "td_pct": 60.9,
+   "hpv_pct": 33.3,
    "needs_mopup": true,
    "lat": 7.609234,
    "lon": 124.863412
@@ -520,13 +520,13 @@
    "no": 17,
    "name": "Langcataon CES",
    "barangay": "Langcataon",
-   "status": "upcoming",
+   "status": "ongoing",
    "dates": [
     "2026-10-19",
     "2026-10-20"
    ],
    "schedule": "October 19&20, 2026",
-   "today": false,
+   "today": true,
    "next_date": "2026-10-19",
    "elig_g1": 40,
    "elig_g7": 0,
@@ -613,12 +613,12 @@
    "no": 20,
    "name": "Upper Rancho ES (under Bangahan IS)",
    "barangay": "Bangahan",
-   "status": "upcoming",
+   "status": "ongoing",
    "dates": [
     "2026-10-19"
    ],
    "schedule": "October 19, 2026",
-   "today": false,
+   "today": true,
    "next_date": "2026-10-19",
    "elig_g1": 13,
    "elig_g7": 0,
@@ -733,12 +733,12 @@
    "no": 24,
    "name": "Kipaducan ES",
    "barangay": "Kipaducan",
-   "status": "upcoming",
+   "status": "done",
    "dates": [
     "2026-10-19"
    ],
    "schedule": "October 19, 2026",
-   "today": false,
+   "today": true,
    "next_date": "2026-10-19",
    "elig_g1": 22,
    "elig_g7": 0,
@@ -746,15 +746,15 @@
    "elig_mrtd": 22,
    "elig_hpv": 15,
    "elig_total": 37,
-   "mr": 0,
-   "td": 0,
-   "hpv_any": 0,
-   "hpv_g5": 0,
-   "vaxed": 0,
-   "mr_pct": 0.0,
-   "td_pct": 0.0,
-   "hpv_pct": 0.0,
-   "needs_mopup": false,
+   "mr": 1,
+   "td": 1,
+   "hpv_any": 3,
+   "hpv_g5": 5,
+   "vaxed": 4,
+   "mr_pct": 4.5,
+   "td_pct": 4.5,
+   "hpv_pct": 20.0,
+   "needs_mopup": true,
    "lat": 7.656496,
    "lon": 124.836827
   },
@@ -763,12 +763,12 @@
    "no": 25,
    "name": "New Ilo-ilo ES",
    "barangay": "Kipaducan",
-   "status": "upcoming",
+   "status": "ongoing",
    "dates": [
     "2026-10-19"
    ],
    "schedule": "October 19, 2026",
-   "today": false,
+   "today": true,
    "next_date": "2026-10-19",
    "elig_g1": 9,
    "elig_g7": 0,
@@ -808,12 +808,12 @@
    "elig_total": 103,
    "mr": 17,
    "td": 17,
-   "hpv_any": 5,
+   "hpv_any": 9,
    "hpv_g5": 0,
-   "vaxed": 22,
+   "vaxed": 26,
    "mr_pct": 23.0,
    "td_pct": 23.0,
-   "hpv_pct": 17.2,
+   "hpv_pct": 31.0,
    "needs_mopup": true,
    "lat": 7.61675,
    "lon": 124.839019
@@ -913,28 +913,28 @@
    "no": 30,
    "name": "Quarry ES",
    "barangay": "Bacusanon",
-   "status": "ongoing",
+   "status": "done",
    "dates": [
     "2026-10-16"
    ],
    "schedule": "October 16, 2026",
-   "today": true,
-   "next_date": "2026-10-16",
+   "today": false,
+   "next_date": null,
    "elig_g1": 22,
    "elig_g7": 0,
    "elig_g4f": 14,
    "elig_mrtd": 22,
    "elig_hpv": 14,
    "elig_total": 36,
-   "mr": 0,
-   "td": 0,
-   "hpv_any": 0,
+   "mr": 5,
+   "td": 5,
+   "hpv_any": 3,
    "hpv_g5": 0,
-   "vaxed": 0,
-   "mr_pct": 0.0,
-   "td_pct": 0.0,
-   "hpv_pct": 0.0,
-   "needs_mopup": false,
+   "vaxed": 8,
+   "mr_pct": 22.7,
+   "td_pct": 22.7,
+   "hpv_pct": 21.4,
+   "needs_mopup": true,
    "lat": 7.892004,
    "lon": 124.705281
   },
@@ -949,7 +949,7 @@
     "2026-10-19"
    ],
    "schedule": "October 13&19, 2026",
-   "today": false,
+   "today": true,
    "next_date": "2026-10-19",
    "elig_g1": 29,
    "elig_g7": 29,
@@ -1110,12 +1110,12 @@
    "elig_total": 47,
    "mr": 15,
    "td": 15,
-   "hpv_any": 4,
-   "hpv_g5": 0,
-   "vaxed": 19,
+   "hpv_any": 12,
+   "hpv_g5": 1,
+   "vaxed": 27,
    "mr_pct": 60.0,
    "td_pct": 60.0,
-   "hpv_pct": 18.2,
+   "hpv_pct": 54.5,
    "needs_mopup": true,
    "lat": 7.839363,
    "lon": 124.76016
@@ -1148,18 +1148,55 @@
    "cum_MR": 301,
    "cum_Td": 301,
    "cum_HPV": 106
+  },
+  {
+   "date": "2026-10-15",
+   "MR": 45,
+   "Td": 45,
+   "HPV": 17,
+   "cum_MR": 346,
+   "cum_Td": 346,
+   "cum_HPV": 123
+  },
+  {
+   "date": "2026-10-16",
+   "MR": 2,
+   "Td": 2,
+   "HPV": 0,
+   "cum_MR": 348,
+   "cum_Td": 348,
+   "cum_HPV": 123
+  },
+  {
+   "date": "2026-10-19",
+   "MR": 88,
+   "Td": 88,
+   "HPV": 20,
+   "cum_MR": 436,
+   "cum_Td": 436,
+   "cum_HPV": 143
   }
  ],
  "reasons": [
   {
+   "code": 17,
+   "label": "Outright refusal",
+   "count": 115
+  },
+  {
    "code": 2,
    "label": "Fear of vaccine side effect",
-   "count": 36
+   "count": 65
   },
   {
    "code": 4,
    "label": "Child already has complete routine vaccination",
-   "count": 17
+   "count": 24
+  },
+  {
+   "code": 15,
+   "label": "Child was acutely sick or not feeling well",
+   "count": 8
   },
   {
    "code": 9,
@@ -1167,17 +1204,247 @@
    "count": 7
   },
   {
-   "code": 15,
-   "label": "Child was acutely sick or not feeling well",
+   "code": 1,
+   "label": "Parent was absent / away from home",
    "count": 6
   },
   {
    "code": 18,
    "label": "Other",
    "count": 5
+  },
+  {
+   "code": 11,
+   "label": "Just recovered from illness / discharged from hospital",
+   "count": 2
   }
  ],
  "school_days": {
+  "30": [
+   [
+    "2026-10-19",
+    5,
+    5,
+    3,
+    8
+   ]
+  ],
+  "24": [
+   [
+    "2026-10-19",
+    1,
+    1,
+    3,
+    4
+   ]
+  ],
+  "36": [
+   [
+    "2026-10-13",
+    15,
+    15,
+    4,
+    19
+   ],
+   [
+    "2026-10-19",
+    0,
+    0,
+    8,
+    8
+   ]
+  ],
+  "13": [
+   [
+    "2026-10-19",
+    74,
+    74,
+    0,
+    74
+   ]
+  ],
+  "3": [
+   [
+    "2026-10-19",
+    4,
+    4,
+    5,
+    9
+   ]
+  ],
+  "11": [
+   [
+    "2026-10-12",
+    5,
+    5,
+    6,
+    11
+   ],
+   [
+    "2026-10-19",
+    4,
+    4,
+    1,
+    5
+   ]
+  ],
+  "12": [
+   [
+    "2026-10-13",
+    18,
+    18,
+    14,
+    32
+   ],
+   [
+    "2026-10-15",
+    7,
+    7,
+    3,
+    10
+   ],
+   [
+    "2026-10-16",
+    2,
+    2,
+    0,
+    2
+   ]
+  ],
+  "16": [
+   [
+    "2026-10-13",
+    8,
+    8,
+    1,
+    9
+   ],
+   [
+    "2026-10-15",
+    6,
+    6,
+    2,
+    8
+   ]
+  ],
+  "4": [
+   [
+    "2026-10-15",
+    32,
+    32,
+    8,
+    40
+   ]
+  ],
+  "26": [
+   [
+    "2026-10-13",
+    17,
+    17,
+    5,
+    22
+   ],
+   [
+    "2026-10-15",
+    0,
+    0,
+    4,
+    4
+   ]
+  ],
+  "35": [
+   [
+    "2026-10-13",
+    49,
+    49,
+    18,
+    67
+   ],
+   [
+    "2026-10-14",
+    5,
+    5,
+    0,
+    5
+   ]
+  ],
+  "2": [
+   [
+    "2026-10-14",
+    7,
+    7,
+    2,
+    9
+   ]
+  ],
+  "19": [
+   [
+    "2026-10-13",
+    0,
+    0,
+    11,
+    11
+   ],
+   [
+    "2026-10-14",
+    20,
+    20,
+    1,
+    21
+   ]
+  ],
+  "10": [
+   [
+    "2026-10-13",
+    20,
+    20,
+    4,
+    24
+   ],
+   [
+    "2026-10-14",
+    2,
+    2,
+    2,
+    4
+   ]
+  ],
+  "27": [
+   [
+    "2026-10-14",
+    10,
+    10,
+    6,
+    16
+   ]
+  ],
+  "7": [
+   [
+    "2026-10-13",
+    6,
+    6,
+    3,
+    9
+   ]
+  ],
+  "31": [
+   [
+    "2026-10-13",
+    4,
+    4,
+    3,
+    7
+   ]
+  ],
+  "5": [
+   [
+    "2026-10-13",
+    4,
+    4,
+    4,
+    8
+   ]
+  ],
   "28": [
    [
     "2026-10-12",
@@ -1214,15 +1481,6 @@
     29
    ]
   ],
-  "11": [
-   [
-    "2026-10-12",
-    5,
-    5,
-    6,
-    11
-   ]
-  ],
   "22": [
    [
     "2026-10-12",
@@ -1231,152 +1489,23 @@
     0,
     49
    ]
-  ],
-  "7": [
-   [
-    "2026-10-13",
-    6,
-    6,
-    3,
-    9
-   ]
-  ],
-  "36": [
-   [
-    "2026-10-13",
-    15,
-    15,
-    4,
-    19
-   ]
-  ],
-  "10": [
-   [
-    "2026-10-13",
-    20,
-    20,
-    4,
-    24
-   ],
-   [
-    "2026-10-14",
-    2,
-    2,
-    2,
-    4
-   ]
-  ],
-  "16": [
-   [
-    "2026-10-13",
-    8,
-    8,
-    1,
-    9
-   ]
-  ],
-  "31": [
-   [
-    "2026-10-13",
-    4,
-    4,
-    3,
-    7
-   ]
-  ],
-  "5": [
-   [
-    "2026-10-13",
-    4,
-    4,
-    4,
-    8
-   ]
-  ],
-  "35": [
-   [
-    "2026-10-13",
-    49,
-    49,
-    18,
-    67
-   ],
-   [
-    "2026-10-14",
-    5,
-    5,
-    0,
-    5
-   ]
-  ],
-  "26": [
-   [
-    "2026-10-13",
-    17,
-    17,
-    5,
-    22
-   ]
-  ],
-  "19": [
-   [
-    "2026-10-13",
-    0,
-    0,
-    11,
-    11
-   ],
-   [
-    "2026-10-14",
-    20,
-    20,
-    1,
-    21
-   ]
-  ],
-  "12": [
-   [
-    "2026-10-13",
-    18,
-    18,
-    14,
-    32
-   ]
-  ],
-  "2": [
-   [
-    "2026-10-14",
-    7,
-    7,
-    2,
-    9
-   ]
-  ],
-  "27": [
-   [
-    "2026-10-14",
-    10,
-    10,
-    6,
-    16
-   ]
   ]
  },
  "defer_refuse": [
   {
    "grade": "Grade 1",
-   "deferred": 12,
-   "refused": 82
+   "deferred": 22,
+   "refused": 258
   },
   {
    "grade": "Gr 4-5 Female",
-   "deferred": 8,
-   "refused": 20
+   "deferred": 9,
+   "refused": 64
   },
   {
    "grade": "Grade 7",
    "deferred": 0,
-   "refused": 2
+   "refused": 18
   }
  ],
  "media": [
