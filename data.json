@@ -1,7 +1,7 @@
 {
  "first_date": "October 12, 2026",
  "started": true,
- "generated": "October 20, 2026 7:07 PM",
+ "generated": "October 20, 2026 7:14 PM",
  "today": "2026-10-20",
  "kpi": {
   "mr_pct": 19.2,
@@ -1551,8 +1551,8 @@
  "defer_refuse": [
   {
    "grade": "Grade 1",
-   "deferred": 22,
-   "refused": 292
+   "deferred": 11,
+   "refused": 146
   },
   {
    "grade": "Gr 4-5 Female",
@@ -1562,7 +1562,7 @@
   {
    "grade": "Grade 7",
    "deferred": 0,
-   "refused": 18
+   "refused": 9
   }
  ],
  "media": [
