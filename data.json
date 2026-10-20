@@ -1,8 +1,8 @@
 {
  "first_date": "October 12, 2026",
  "started": true,
- "generated": "October 19, 2026 9:31 PM",
- "today": "2026-10-19",
+ "generated": "October 20, 2026 7:07 PM",
+ "today": "2026-10-20",
  "kpi": {
   "mr_pct": 19.2,
   "td_pct": 19.2,
@@ -16,12 +16,12 @@
   "elig_total": 2947,
   "vaxed_pct": 20.4,
   "schools": 36,
-  "done": 20,
-  "ongoing": 6,
-  "awaiting": 6,
+  "done": 22,
+  "ongoing": 4,
+  "awaiting": 7,
   "hpv_g5": 9,
-  "upcoming": 4,
-  "mopup": 20
+  "upcoming": 3,
+  "mopup": 22
  },
  "schools": [
   {
@@ -59,14 +59,14 @@
    "no": 2,
    "name": "Jarque ES",
    "barangay": "Adtuyon",
-   "status": "ongoing",
+   "status": "done",
    "dates": [
     "2026-10-14",
     "2026-10-19"
    ],
    "schedule": "October 14 & 19, 2026",
-   "today": true,
-   "next_date": "2026-10-19",
+   "today": false,
+   "next_date": null,
    "elig_g1": 15,
    "elig_g7": 0,
    "elig_g4f": 8,
@@ -81,7 +81,7 @@
    "mr_pct": 46.7,
    "td_pct": 46.7,
    "hpv_pct": 25.0,
-   "needs_mopup": false,
+   "needs_mopup": true,
    "lat": 7.777158,
    "lon": 124.863306
   },
@@ -96,8 +96,8 @@
     "2026-10-19"
    ],
    "schedule": "October 14, 19, 2026",
-   "today": true,
-   "next_date": "2026-10-19",
+   "today": false,
+   "next_date": null,
    "elig_g1": 16,
    "elig_g7": 17,
    "elig_g4f": 12,
@@ -339,8 +339,8 @@
     "2026-10-19"
    ],
    "schedule": "October 12, 19, 2026",
-   "today": true,
-   "next_date": "2026-10-19",
+   "today": false,
+   "next_date": null,
    "elig_g1": 22,
    "elig_g7": 16,
    "elig_g4f": 10,
@@ -407,7 +407,7 @@
    ],
    "schedule": "October 19,20,29,30, 2026",
    "today": true,
-   "next_date": "2026-10-19",
+   "next_date": "2026-10-20",
    "elig_g1": 0,
    "elig_g7": 456,
    "elig_g4f": 0,
@@ -529,7 +529,7 @@
    ],
    "schedule": "October 19&20, 2026",
    "today": true,
-   "next_date": "2026-10-19",
+   "next_date": "2026-10-20",
    "elig_g1": 40,
    "elig_g7": 0,
    "elig_g4f": 16,
@@ -620,8 +620,8 @@
     "2026-10-19"
    ],
    "schedule": "October 19, 2026",
-   "today": true,
-   "next_date": "2026-10-19",
+   "today": false,
+   "next_date": null,
    "elig_g1": 13,
    "elig_g7": 0,
    "elig_g4f": 9,
@@ -740,8 +740,8 @@
     "2026-10-19"
    ],
    "schedule": "October 19, 2026",
-   "today": true,
-   "next_date": "2026-10-19",
+   "today": false,
+   "next_date": null,
    "elig_g1": 22,
    "elig_g7": 0,
    "elig_g4f": 15,
@@ -765,13 +765,13 @@
    "no": 25,
    "name": "New Ilo-ilo ES",
    "barangay": "Kipaducan",
-   "status": "ongoing",
+   "status": "awaiting",
    "dates": [
     "2026-10-19"
    ],
    "schedule": "October 19, 2026",
-   "today": true,
-   "next_date": "2026-10-19",
+   "today": false,
+   "next_date": null,
    "elig_g1": 9,
    "elig_g7": 0,
    "elig_g4f": 1,
@@ -922,8 +922,8 @@
     "2026-10-19"
    ],
    "schedule": "October 16, 19, 2026",
-   "today": true,
-   "next_date": "2026-10-19",
+   "today": false,
+   "next_date": null,
    "elig_g1": 22,
    "elig_g7": 0,
    "elig_g4f": 14,
@@ -947,14 +947,14 @@
    "no": 31,
    "name": "San Guinto IS",
    "barangay": "Bacusanon",
-   "status": "ongoing",
+   "status": "done",
    "dates": [
     "2026-10-13",
     "2026-10-19"
    ],
    "schedule": "October 13&19, 2026",
-   "today": true,
-   "next_date": "2026-10-19",
+   "today": false,
+   "next_date": null,
    "elig_g1": 29,
    "elig_g7": 29,
    "elig_g4f": 8,
@@ -969,7 +969,7 @@
    "mr_pct": 6.9,
    "td_pct": 6.9,
    "hpv_pct": 37.5,
-   "needs_mopup": false,
+   "needs_mopup": true,
    "lat": 7.909468,
    "lon": 124.729474
   },
@@ -1038,12 +1038,12 @@
    "no": 34,
    "name": "Iliyan Te Apu Méndépéten",
    "barangay": "Pigtauranan",
-   "status": "upcoming",
+   "status": "ongoing",
    "dates": [
     "2026-10-20"
    ],
    "schedule": "October 20, 2026",
-   "today": false,
+   "today": true,
    "next_date": "2026-10-20",
    "elig_g1": 10,
    "elig_g7": 0,
@@ -1105,8 +1105,8 @@
     "2026-10-19"
    ],
    "schedule": "October 13, 19, 2026",
-   "today": true,
-   "next_date": "2026-10-19",
+   "today": false,
+   "next_date": null,
    "elig_g1": 25,
    "elig_g7": 0,
    "elig_g4f": 22,
@@ -1191,7 +1191,7 @@
   {
    "code": 2,
    "label": "Fear of vaccine side effect",
-   "count": 65
+   "count": 70
   },
   {
    "code": 4,
