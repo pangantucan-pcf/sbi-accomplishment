@@ -1,27 +1,27 @@
 {
  "first_date": "October 12, 2026",
  "started": true,
- "generated": "October 20, 2026 7:54 PM",
- "today": "2026-10-20",
+ "generated": "October 21, 2026 12:40 PM",
+ "today": "2026-10-21",
  "kpi": {
   "mr_pct": 19.2,
   "td_pct": 19.2,
   "hpv_pct": 24.8,
   "mr": 446,
-  "td": 446,
+  "td": 447,
   "hpv": 154,
   "elig_mrtd": 2326,
   "elig_hpv": 621,
-  "vaxed": 600,
+  "vaxed": 601,
   "elig_total": 2947,
   "vaxed_pct": 20.4,
   "schools": 36,
-  "done": 22,
-  "ongoing": 4,
-  "awaiting": 7,
+  "done": 23,
+  "ongoing": 3,
+  "awaiting": 8,
   "hpv_g5": 9,
-  "upcoming": 3,
-  "mopup": 22
+  "upcoming": 2,
+  "mopup": 23
  },
  "schools": [
   {
@@ -406,8 +406,8 @@
     "2026-10-30"
    ],
    "schedule": "October 19,20,29,30, 2026",
-   "today": true,
-   "next_date": "2026-10-20",
+   "today": false,
+   "next_date": "2026-10-29",
    "elig_g1": 0,
    "elig_g7": 456,
    "elig_g4f": 0,
@@ -415,12 +415,12 @@
    "elig_hpv": 0,
    "elig_total": 456,
    "mr": 74,
-   "td": 74,
+   "td": 75,
    "hpv_any": 0,
    "hpv_g5": 0,
-   "vaxed": 74,
+   "vaxed": 75,
    "mr_pct": 16.2,
-   "td_pct": 16.2,
+   "td_pct": 16.4,
    "hpv_pct": 0.0,
    "needs_mopup": false,
    "lat": 7.835911,
@@ -522,14 +522,14 @@
    "no": 17,
    "name": "Langcataon CES",
    "barangay": "Langcataon",
-   "status": "ongoing",
+   "status": "done",
    "dates": [
     "2026-10-19",
     "2026-10-20"
    ],
    "schedule": "October 19&20, 2026",
-   "today": true,
-   "next_date": "2026-10-20",
+   "today": false,
+   "next_date": null,
    "elig_g1": 40,
    "elig_g7": 0,
    "elig_g4f": 16,
@@ -544,7 +544,7 @@
    "mr_pct": 25.0,
    "td_pct": 25.0,
    "hpv_pct": 31.2,
-   "needs_mopup": false,
+   "needs_mopup": true,
    "lat": 7.637753,
    "lon": 124.854361
   },
@@ -1008,12 +1008,12 @@
    "no": 33,
    "name": "Nabaliwa ES",
    "barangay": "Nabaliwa",
-   "status": "upcoming",
+   "status": "ongoing",
    "dates": [
     "2026-10-21"
    ],
    "schedule": "October 21, 2026",
-   "today": false,
+   "today": true,
    "next_date": "2026-10-21",
    "elig_g1": 30,
    "elig_g7": 0,
@@ -1038,13 +1038,13 @@
    "no": 34,
    "name": "Iliyan Te Apu Méndépéten",
    "barangay": "Pigtauranan",
-   "status": "ongoing",
+   "status": "awaiting",
    "dates": [
     "2026-10-20"
    ],
    "schedule": "October 20, 2026",
-   "today": true,
-   "next_date": "2026-10-20",
+   "today": false,
+   "next_date": null,
    "elig_g1": 10,
    "elig_g7": 0,
    "elig_g4f": 3,
@@ -1175,10 +1175,10 @@
   {
    "date": "2026-10-19",
    "MR": 98,
-   "Td": 98,
+   "Td": 99,
    "HPV": 31,
    "cum_MR": 446,
-   "cum_Td": 446,
+   "cum_Td": 447,
    "cum_HPV": 154
   }
  ],
@@ -1267,9 +1267,9 @@
    [
     "2026-10-19",
     74,
-    74,
+    75,
     0,
-    74,
+    75,
     0
    ]
   ],
