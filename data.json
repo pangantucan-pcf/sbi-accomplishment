@@ -1,27 +1,27 @@
 {
  "first_date": "October 12, 2026",
  "started": true,
- "generated": "October 23, 2026 2:02 PM",
- "today": "2026-10-23",
+ "generated": "October 26, 2026 2:35 PM",
+ "today": "2026-10-26",
  "kpi": {
-  "mr_pct": 23.8,
-  "td_pct": 23.9,
-  "hpv_pct": 30.1,
-  "mr": 554,
-  "td": 555,
-  "hpv": 187,
+  "mr_pct": 25.4,
+  "td_pct": 25.4,
+  "hpv_pct": 32.4,
+  "mr": 590,
+  "td": 591,
+  "hpv": 201,
   "elig_mrtd": 2326,
   "elig_hpv": 621,
-  "vaxed": 742,
+  "vaxed": 792,
   "elig_total": 2947,
-  "vaxed_pct": 25.2,
+  "vaxed_pct": 26.9,
   "schools": 36,
-  "done": 28,
-  "ongoing": 2,
-  "awaiting": 5,
+  "done": 29,
+  "ongoing": 3,
+  "awaiting": 4,
   "hpv_g5": 11,
-  "upcoming": 1,
-  "mopup": 28
+  "upcoming": 0,
+  "mopup": 29
  },
  "schools": [
   {
@@ -375,7 +375,7 @@
     "2026-10-27"
    ],
    "schedule": "October 13,15,16,26,27, 2026",
-   "today": false,
+   "today": true,
    "next_date": "2026-10-26",
    "elig_g1": 267,
    "elig_g7": 0,
@@ -557,13 +557,13 @@
    "no": 18,
    "name": "Langcataon NHS",
    "barangay": "Langcataon",
-   "status": "upcoming",
+   "status": "ongoing",
    "dates": [
     "2026-10-26",
     "2026-10-27"
    ],
    "schedule": "October 26&27, 2026",
-   "today": false,
+   "today": true,
    "next_date": "2026-10-26",
    "elig_g1": 0,
    "elig_g7": 88,
@@ -593,9 +593,10 @@
     "2026-10-13",
     "2026-10-14",
     "2026-10-20",
-    "2026-10-21"
+    "2026-10-21",
+    "2026-10-23"
    ],
-   "schedule": "October 13, 14, 20, 21, 2026",
+   "schedule": "October 13, 14, 20, 21, 23, 2026",
    "today": false,
    "next_date": null,
    "elig_g1": 50,
@@ -604,14 +605,14 @@
    "elig_mrtd": 110,
    "elig_hpv": 31,
    "elig_total": 141,
-   "mr": 48,
-   "td": 48,
-   "hpv_any": 23,
+   "mr": 55,
+   "td": 55,
+   "hpv_any": 26,
    "hpv_g5": 0,
-   "vaxed": 71,
-   "mr_pct": 43.6,
-   "td_pct": 43.6,
-   "hpv_pct": 74.2,
+   "vaxed": 81,
+   "mr_pct": 50.0,
+   "td_pct": 50.0,
+   "hpv_pct": 83.9,
    "needs_mopup": true,
    "lat": 7.648653,
    "lon": 124.822807
@@ -623,9 +624,10 @@
    "barangay": "Bangahan",
    "status": "done",
    "dates": [
-    "2026-10-19"
+    "2026-10-19",
+    "2026-10-23"
    ],
-   "schedule": "October 19, 2026",
+   "schedule": "October 19, 23, 2026",
    "today": false,
    "next_date": null,
    "elig_g1": 13,
@@ -634,14 +636,14 @@
    "elig_mrtd": 13,
    "elig_hpv": 9,
    "elig_total": 22,
-   "mr": 0,
-   "td": 0,
-   "hpv_any": 6,
+   "mr": 1,
+   "td": 1,
+   "hpv_any": 7,
    "hpv_g5": 0,
-   "vaxed": 6,
-   "mr_pct": 0.0,
-   "td_pct": 0.0,
-   "hpv_pct": 66.7,
+   "vaxed": 8,
+   "mr_pct": 7.7,
+   "td_pct": 7.7,
+   "hpv_pct": 77.8,
    "needs_mopup": true,
    "lat": 7.674525,
    "lon": 124.805439
@@ -651,7 +653,7 @@
    "no": 21,
    "name": "Kimanait ES",
    "barangay": "Kimanait",
-   "status": "awaiting",
+   "status": "done",
    "dates": [
     "2026-10-13"
    ],
@@ -664,15 +666,15 @@
    "elig_mrtd": 66,
    "elig_hpv": 36,
    "elig_total": 102,
-   "mr": 0,
-   "td": 0,
-   "hpv_any": 0,
+   "mr": 28,
+   "td": 28,
+   "hpv_any": 10,
    "hpv_g5": 0,
-   "vaxed": 0,
-   "mr_pct": 0.0,
-   "td_pct": 0.0,
-   "hpv_pct": 0.0,
-   "needs_mopup": false,
+   "vaxed": 38,
+   "mr_pct": 42.4,
+   "td_pct": 42.4,
+   "hpv_pct": 27.8,
+   "needs_mopup": true,
    "lat": 7.575983,
    "lon": 124.841147
   },
@@ -1149,75 +1151,84 @@
   },
   {
    "date": "2026-10-13",
-   "MR": 141,
-   "Td": 141,
-   "HPV": 67,
-   "cum_MR": 257,
-   "cum_Td": 257,
-   "cum_HPV": 95
+   "MR": 169,
+   "Td": 169,
+   "HPV": 77,
+   "cum_MR": 285,
+   "cum_Td": 285,
+   "cum_HPV": 105
   },
   {
    "date": "2026-10-14",
    "MR": 44,
    "Td": 44,
    "HPV": 11,
-   "cum_MR": 301,
-   "cum_Td": 301,
-   "cum_HPV": 106
+   "cum_MR": 329,
+   "cum_Td": 329,
+   "cum_HPV": 116
   },
   {
    "date": "2026-10-15",
    "MR": 45,
    "Td": 45,
    "HPV": 17,
-   "cum_MR": 346,
-   "cum_Td": 346,
-   "cum_HPV": 123
+   "cum_MR": 374,
+   "cum_Td": 374,
+   "cum_HPV": 133
   },
   {
    "date": "2026-10-16",
    "MR": 2,
    "Td": 2,
    "HPV": 0,
-   "cum_MR": 348,
-   "cum_Td": 348,
-   "cum_HPV": 123
+   "cum_MR": 376,
+   "cum_Td": 376,
+   "cum_HPV": 133
   },
   {
    "date": "2026-10-19",
    "MR": 98,
    "Td": 99,
-   "HPV": 31,
-   "cum_MR": 446,
-   "cum_Td": 447,
-   "cum_HPV": 154
+   "HPV": 32,
+   "cum_MR": 474,
+   "cum_Td": 475,
+   "cum_HPV": 165
   },
   {
    "date": "2026-10-20",
    "MR": 64,
    "Td": 64,
    "HPV": 18,
-   "cum_MR": 510,
-   "cum_Td": 511,
-   "cum_HPV": 172
+   "cum_MR": 538,
+   "cum_Td": 539,
+   "cum_HPV": 183
   },
   {
    "date": "2026-10-21",
    "MR": 25,
    "Td": 25,
    "HPV": 4,
-   "cum_MR": 535,
-   "cum_Td": 536,
-   "cum_HPV": 176
+   "cum_MR": 563,
+   "cum_Td": 564,
+   "cum_HPV": 187
   },
   {
    "date": "2026-10-22",
    "MR": 19,
    "Td": 19,
    "HPV": 11,
-   "cum_MR": 554,
-   "cum_Td": 555,
-   "cum_HPV": 187
+   "cum_MR": 582,
+   "cum_Td": 583,
+   "cum_HPV": 198
+  },
+  {
+   "date": "2026-10-23",
+   "MR": 8,
+   "Td": 8,
+   "HPV": 3,
+   "cum_MR": 590,
+   "cum_Td": 591,
+   "cum_HPV": 201
   }
  ],
  "reasons": [
@@ -1283,6 +1294,66 @@
   }
  ],
  "school_days": {
+  "20": [
+   [
+    "2026-10-19",
+    0,
+    0,
+    7,
+    7,
+    0
+   ],
+   [
+    "2026-10-23",
+    1,
+    1,
+    0,
+    1,
+    0
+   ]
+  ],
+  "19": [
+   [
+    "2026-10-13",
+    0,
+    0,
+    11,
+    11,
+    0
+   ],
+   [
+    "2026-10-14",
+    20,
+    20,
+    1,
+    21,
+    0
+   ],
+   [
+    "2026-10-20",
+    20,
+    20,
+    9,
+    29,
+    0
+   ],
+   [
+    "2026-10-21",
+    8,
+    8,
+    2,
+    10,
+    0
+   ],
+   [
+    "2026-10-23",
+    7,
+    7,
+    3,
+    10,
+    0
+   ]
+  ],
   "31": [
    [
     "2026-10-13",
@@ -1380,40 +1451,6 @@
     13,
     1,
     14,
-    0
-   ]
-  ],
-  "19": [
-   [
-    "2026-10-13",
-    0,
-    0,
-    11,
-    11,
-    0
-   ],
-   [
-    "2026-10-14",
-    20,
-    20,
-    1,
-    21,
-    0
-   ],
-   [
-    "2026-10-20",
-    20,
-    20,
-    9,
-    29,
-    0
-   ],
-   [
-    "2026-10-21",
-    8,
-    8,
-    2,
-    10,
     0
    ]
   ],
@@ -1555,16 +1592,6 @@
     0
    ]
   ],
-  "20": [
-   [
-    "2026-10-19",
-    0,
-    0,
-    6,
-    6,
-    0
-   ]
-  ],
   "11": [
    [
     "2026-10-12",
@@ -1693,6 +1720,16 @@
     4,
     8,
     1
+   ]
+  ],
+  "21": [
+   [
+    "2026-10-13",
+    28,
+    28,
+    10,
+    38,
+    0
    ]
   ],
   "28": [
