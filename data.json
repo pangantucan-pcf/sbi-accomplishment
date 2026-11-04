@@ -1,8 +1,8 @@
 {
  "first_date": "October 12, 2026",
  "started": true,
- "generated": "October 30, 2026 2:31 PM",
- "today": "2026-10-30",
+ "generated": "November 4, 2026 10:17 AM",
+ "today": "2026-11-04",
  "kpi": {
   "mr_pct": 26.1,
   "td_pct": 26.2,
@@ -16,12 +16,12 @@
   "elig_total": 2872,
   "vaxed_pct": 27.6,
   "schools": 36,
-  "done": 30,
-  "ongoing": 1,
+  "done": 31,
+  "ongoing": 0,
   "awaiting": 5,
   "hpv_g5": 11,
   "upcoming": 0,
-  "mopup": 30
+  "mopup": 31
  },
  "schools": [
   {
@@ -400,7 +400,7 @@
    "no": 13,
    "name": "Pangantucan NHS",
    "barangay": "Poblacion",
-   "status": "ongoing",
+   "status": "done",
    "dates": [
     "2026-10-19",
     "2026-10-20",
@@ -408,8 +408,8 @@
     "2026-10-30"
    ],
    "schedule": "October 19,20,29,30, 2026",
-   "today": true,
-   "next_date": "2026-10-30",
+   "today": false,
+   "next_date": null,
    "elig_g1": 0,
    "elig_g7": 426,
    "elig_g4f": 0,
@@ -424,7 +424,7 @@
    "mr_pct": 18.1,
    "td_pct": 18.3,
    "hpv_pct": 0.0,
-   "needs_mopup": false,
+   "needs_mopup": true,
    "lat": 7.835911,
    "lon": 124.833759
   },
