@@ -1,27 +1,27 @@
 {
  "first_date": "October 12, 2026",
  "started": true,
- "generated": "November 8, 2026 8:43 AM",
+ "generated": "November 8, 2026 8:45 AM",
  "today": "2026-11-08",
  "kpi": {
-  "mr_pct": 29.2,
-  "td_pct": 29.2,
-  "hpv_pct": 34.2,
-  "mr": 660,
-  "td": 660,
-  "hpv": 210,
+  "mr_pct": 30.5,
+  "td_pct": 30.5,
+  "hpv_pct": 34.7,
+  "mr": 688,
+  "td": 689,
+  "hpv": 213,
   "elig_mrtd": 2258,
   "elig_hpv": 614,
-  "vaxed": 871,
+  "vaxed": 903,
   "elig_total": 2872,
-  "vaxed_pct": 30.3,
+  "vaxed_pct": 31.4,
   "schools": 36,
-  "done": 33,
+  "done": 35,
   "ongoing": 0,
-  "awaiting": 3,
+  "awaiting": 1,
   "hpv_g5": 11,
   "upcoming": 0,
-  "mopup": 33
+  "mopup": 35
  },
  "schools": [
   {
@@ -242,7 +242,7 @@
    "no": 8,
    "name": "San Vicente ES",
    "barangay": "Lantay",
-   "status": "awaiting",
+   "status": "done",
    "dates": [
     "2026-10-27"
    ],
@@ -255,15 +255,15 @@
    "elig_mrtd": 8,
    "elig_hpv": 3,
    "elig_total": 11,
-   "mr": 0,
-   "td": 0,
-   "hpv_any": 0,
+   "mr": 4,
+   "td": 4,
+   "hpv_any": 1,
    "hpv_g5": 0,
-   "vaxed": 0,
-   "mr_pct": 0.0,
-   "td_pct": 0.0,
-   "hpv_pct": 0.0,
-   "needs_mopup": false,
+   "vaxed": 5,
+   "mr_pct": 50.0,
+   "td_pct": 50.0,
+   "hpv_pct": 33.3,
+   "needs_mopup": true,
    "lat": 7.79293,
    "lon": 124.810846
   },
@@ -558,7 +558,7 @@
    "no": 18,
    "name": "Langcataon NHS",
    "barangay": "Langcataon",
-   "status": "awaiting",
+   "status": "done",
    "dates": [
     "2026-10-27"
    ],
@@ -571,15 +571,15 @@
    "elig_mrtd": 80,
    "elig_hpv": 0,
    "elig_total": 80,
-   "mr": 0,
-   "td": 0,
+   "mr": 23,
+   "td": 24,
    "hpv_any": 0,
    "hpv_g5": 0,
-   "vaxed": 0,
-   "mr_pct": 0.0,
-   "td_pct": 0.0,
+   "vaxed": 24,
+   "mr_pct": 28.8,
+   "td_pct": 30.0,
    "hpv_pct": 0.0,
-   "needs_mopup": false,
+   "needs_mopup": true,
    "lat": 7.633384,
    "lon": 124.853436
   },
@@ -1128,14 +1128,14 @@
    "elig_mrtd": 25,
    "elig_hpv": 16,
    "elig_total": 41,
-   "mr": 15,
-   "td": 15,
-   "hpv_any": 12,
+   "mr": 16,
+   "td": 16,
+   "hpv_any": 14,
    "hpv_g5": 1,
-   "vaxed": 27,
-   "mr_pct": 60.0,
-   "td_pct": 60.0,
-   "hpv_pct": 75.0,
+   "vaxed": 30,
+   "mr_pct": 64.0,
+   "td_pct": 64.0,
+   "hpv_pct": 87.5,
    "needs_mopup": true,
    "lat": 7.839363,
    "lon": 124.76016
@@ -1240,6 +1240,15 @@
    "cum_MR": 660,
    "cum_Td": 660,
    "cum_HPV": 210
+  },
+  {
+   "date": "2026-10-27",
+   "MR": 28,
+   "Td": 29,
+   "HPV": 3,
+   "cum_MR": 688,
+   "cum_Td": 689,
+   "cum_HPV": 213
   }
  ],
  "reasons": [
@@ -1264,13 +1273,13 @@
    "count": 23
   },
   {
-   "code": 1,
-   "label": "Parent was absent / away from home",
-   "count": 11
-  },
-  {
    "code": 15,
    "label": "Child was acutely sick or not feeling well",
+   "count": 12
+  },
+  {
+   "code": 1,
+   "label": "Parent was absent / away from home",
    "count": 11
   },
   {
@@ -1305,6 +1314,52 @@
   }
  ],
  "school_days": {
+  "18": [
+   [
+    "2026-10-27",
+    23,
+    24,
+    0,
+    24,
+    0
+   ]
+  ],
+  "36": [
+   [
+    "2026-10-13",
+    15,
+    15,
+    4,
+    19,
+    0
+   ],
+   [
+    "2026-10-19",
+    0,
+    0,
+    8,
+    8,
+    1
+   ],
+   [
+    "2026-10-27",
+    1,
+    1,
+    2,
+    3,
+    0
+   ]
+  ],
+  "8": [
+   [
+    "2026-10-27",
+    4,
+    4,
+    1,
+    5,
+    0
+   ]
+  ],
   "12": [
    [
     "2026-10-13",
@@ -1627,24 +1682,6 @@
     0
    ]
   ],
-  "36": [
-   [
-    "2026-10-13",
-    15,
-    15,
-    4,
-    19,
-    0
-   ],
-   [
-    "2026-10-19",
-    0,
-    0,
-    8,
-    8,
-    1
-   ]
-  ],
   "3": [
    [
     "2026-10-19",
@@ -1824,12 +1861,12 @@
   {
    "grade": "Grade 1",
    "deferred": 12,
-   "refused": 157
+   "refused": 169
   },
   {
    "grade": "Gr 4-5 Female",
    "deferred": 9,
-   "refused": 91
+   "refused": 97
   },
   {
    "grade": "Grade 7",
